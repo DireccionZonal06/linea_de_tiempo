@@ -1,0 +1,4 @@
+﻿start,end,title,content,color,textcolor,type,sensor_r_1,marca_r_1,modelo_r_1,serie_r_1,sensor_i_1,marca_i_1,modelo_i_1,serie_i_1,sensor_r_2,marca_r_2,modelo_r_2,serie_r_2,sensor_i_2,marca_i_2,modelo_i_2,serie_i_2
+9/02/2025,9/02/2025,Ocoña - Reemplazo sensor de precipitación,Falla en el cierre del interruptor (Reed Switch).,#f40009,white,box,Precipitación,Sutron,5600,125,Precipitación,Sutron,5600,201, , , , , , , , 
+9/04/2025,9/04/2025,Imata - Reemplazo sensores temperatura y Humedad,Asa Griggs Candler adquiere los derechos de Coca-Cola y comienza a expandir la distribución y comercialización del producto.,#00467f,white,box,Temperatura,Siap Micros,5600,tp12,Termohigrómetro,Vaisala,HMP155,VG154,Humedad,Siap Micros,25,tr2, , , , 
+10/04/2025,10/04/2025,Visca Visca - Limpieza de memoria,ddsff,#f40009,white,box, , , , , , , , , , , , , , , , 
