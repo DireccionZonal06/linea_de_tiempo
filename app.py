@@ -59,7 +59,7 @@ if len(dfDatos.dropna()) > 0:
     c1, c2 = st.columns([7,3])
     with c1:
         # Generamos la línea de tiempo retornando el valor seleccionado a la variable timeline
-        timeline = st_timeline(items, groups=[], options={"min":FechaMin,"max":FechaMax,"align":"left"}, height=f"{parAltoTimeline}px", width="100%")
+        timeline = st_timeline(items, groups=[], options={}, height=f"{parAltoTimeline}px", width="100%")
     with c2:
         # Validamos si se seleccionó un evento
         if timeline:
